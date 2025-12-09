@@ -38,6 +38,9 @@ export const MODAL_PRIORITIES = {
   /** Create new group modal */
   CREATE_GROUP: 800,
 
+  /** Onboarding wizard modal - high priority, above most modals */
+  WIZARD: 780,
+
   /** New instance creation modal */
   NEW_INSTANCE: 750,
 
